@@ -1,0 +1,11 @@
+# macOS 系統檔案
+.DS_Store
+
+# Python 編譯暫存與環境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 敏感資訊 (API Keys)
+.env
